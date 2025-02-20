@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(https://wallpaper.dog/large/20579469.jpg);
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+h2{
+  text-align: center;
+  margin-top: 50px;
+  font-family: cursive;
+}
+
+.moods {
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.reset{
+  text-align: center;
+  margin-top: 90px;
+}
