@@ -1,4 +1,4 @@
-#😊 Mood Tracker using React + Vite
+# 😊 Mood Tracker using React + Vite
 
 Description:
 A simple Mood Tracker built with React + Vite using useState. Select your mood, and the UI updates dynamically based on your choice. Perfect for practicing state management! 🚀
